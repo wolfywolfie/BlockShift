@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 80af88c58ca70fc4cbacded9b33f0b32
+timeCreated: 1511214835
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - basicCube: {fileID: 1511945810144122, guid: c8f51d697c5e091488647f07dd3a3851,
+      type: 2}
+  - pusherOne: {fileID: 1870282739458676, guid: 71c6f61146b0d9a4ca4239a4f066836e,
+      type: 2}
+  - pusherTwo: {fileID: 1870282739458676, guid: 71c6f61146b0d9a4ca4239a4f066836e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
