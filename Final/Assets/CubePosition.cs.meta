@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9a86818d082c3c240984a71a0b61da06
+timeCreated: 1512596362
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - clearColor: {fileID: 2100000, guid: 82e395790b82fb5488e83c70457af515, type: 2}
+  - optionOne: {fileID: 2100000, guid: d68ffb7543b87024c95251ae3db8299c, type: 2}
+  - pusherOne: {fileID: 1309819686820940, guid: 0dbd918fc6dfe0b42b7398dbfee4d31c,
+      type: 2}
+  - pusherTwo: {fileID: 1779154783650982, guid: e7288739dd7225840b3b8583bab5a7ab,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
